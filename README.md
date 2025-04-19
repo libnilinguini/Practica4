@@ -8,8 +8,13 @@ Integrantes del equipo:
 
 El programa contiene cada uno por separado, pero el archivo EjercicioCompleto es el que tiene todos
 se compila 
+
 $ ghci EjercicioCompleto.hs
+
 ghci> main
-EN teoria deberia imprimir 
+
+En teoria deberia imprimir 
+
 ¿Alicia tiene acceso?
+
 True
